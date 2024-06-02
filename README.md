@@ -10,6 +10,13 @@ Run the pip and locate to the directory where the Python app.py is present after
 # Step 3:-
 Enjoy using my project.
 
+![Screenshot 2024-06-02 at 3 27 06 PM](https://github.com/keys7/Hyderabad-Metro-Map-Minimum-Distance-Using-Dijkstra-Algorithm/assets/101874897/535ef764-6e6e-4c1a-b97a-8886b4fc1760)
+![Screenshot 2024-06-02 at 3 27 13 PM](https://github.com/keys7/Hyderabad-Metro-Map-Minimum-Distance-Using-Dijkstra-Algorithm/assets/101874897/a84a0044-438c-45c0-8ee2-6ffc89b7de9d)
+![Screenshot 2024-06-02 at 3 27 58 PM](https://github.com/keys7/Hyderabad-Metro-Map-Minimum-Distance-Using-Dijkstra-Algorithm/assets/101874897/175a0b7a-0ce9-4aa4-b0f2-7133bf78da7e)
+![Screenshot 2024-06-02 at 3 28 10 PM](https://github.com/keys7/Hyderabad-Metro-Map-Minimum-Distance-Using-Dijkstra-Algorithm/assets/101874897/0af8fc2b-55fb-4108-9a38-fc5f194f234a)
+![map](https://github.com/keys7/Hyderabad-Metro-Map-Minimum-Distance-Using-Dijkstra-Algorithm/assets/101874897/289a0600-eb34-447e-907c-bf725e0b3742)
+
+
 # About the technologies and the code:-
 This project uses the React and HTML and CSS and JSS for frontend part but if we talk about the backend i've written the Dijkstra algorithm in C++ language. As we all know that Dijkstra algorithm is one of the best algorithm for generating the minimum path between source and destination points.
 
@@ -21,3 +28,7 @@ Once the graph is ready to build then i've developed the Dijistra function and p
 were source and destination that is inputed by the user from the list and writen a normal logic like how dijistra algorithm really works and the output is stored in the respected vector and the using the map i've replaced those number to the names of the stations evem showen the metro line weither is RED, GREEN or BLUE accourding to the respective mapping.
 
 For Displaying the output from the c++ to the Web-Browser using the server...# Hyderabad-Metro-Map-Minimum-Distance-Using-Dijkstra-Algorithm
+![Screenshot 2024-06-02 at 3 28 57 PM](https://github.com/keys7/Hyderabad-Metro-Map-Minimum-Distance-Using-Dijkstra-Algorithm/assets/101874897/4c1af5ad-99a3-45bc-b006-29dbd264abc9)
+![Screenshot 2024-06-02 at 3 29 03 PM](https://github.com/keys7/Hyderabad-Metro-Map-Minimum-Distance-Using-Dijkstra-Algorithm/assets/101874897/112dff69-d50a-41e0-a35b-b82add761f66)
+![Screenshot 2024-06-02 at 3 29 11 PM](https://github.com/keys7/Hyderabad-Metro-Map-Minimum-Distance-Using-Dijkstra-Algorithm/assets/101874897/d7a0739c-e170-4aea-b528-e7f641bda441)
+![Screenshot 2024-06-02 at 3 29 32 PM](https://github.com/keys7/Hyderabad-Metro-Map-Minimum-Distance-Using-Dijkstra-Algorithm/assets/101874897/9982df53-6fb0-47d5-a42c-2f4bb7cae5db)
